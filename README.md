@@ -1,3 +1,7 @@
+# **Credits**
+
+This tool was made by the BinFbs (od8m-deltrix).
+
 # **Binary Femboys Bytepatch DLL**
 
 This repository provides a typical bytepatch DLL with an integrated keyauth check_section_integrity bypass using signature scanning. This allows us to patch a running program without using x64dbg's .1337 or runtime patches.
@@ -32,7 +36,9 @@ This repository provides a typical bytepatch DLL with an integrated keyauth chec
 
 The pastebin used for reference: [Pastebin Link](https://pastebin.com/HL74d9BC)
 
----
+## **License**
 
-Deltrix i need you to try and mess with it to fix it around watch the discord videos i sent 
+Feel free to use and modify this tool as you like as long as you dont sell it or a different copy based on this source code.
+
+--- 
 
